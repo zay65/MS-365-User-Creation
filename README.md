@@ -17,7 +17,7 @@ Next, select the "Active users" sub-category.</div>
 <div align="center"> Select "Add a user".</div>
 
 <p align="center">
-    <img src="https://github.com/zay65/MS-365-User-Creation/blob/eb7fa04b5a8f0716a8cea521eb0c30dc1e01f5b2/MS%20365%20Single%20User%20creation%202.png" alt="Sample Image"/>
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/6d92fc531baf46fbf44497adbcea819391de3eeb/MS%20365%20Single%20User%20creation%202.png" alt="Sample Image"/>
   </p>
 
 
@@ -25,6 +25,10 @@ Next, select the "Active users" sub-category.</div>
 <div align="center">(2) Within "Product licenses", ensure "Assign user a product license" and the appropriate license is selected and select "Next".</div>
 <div align="center">(3) Within "Optional settings", ensure "User (no admin center access)" is selected and select "Next".</div>
 <div align="center">(4) Within "Add a user", ensure everything is correct and select "Finish adding".</div>
+
+<p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/6d92fc531baf46fbf44497adbcea819391de3eeb/MS%20365%20Single%20User%20creation%203.png" alt="Sample Image"/>
+  </p>
 
 <h2> Creating bulk users using a .csv template </h3>
 
@@ -54,7 +58,9 @@ Next, select the "Active users" sub-category.</div>
 
 
 
-<div align="center"> Check "I'd like to upload a CSV with user information", select "Browse" and input a .csv template.</div>
+<div align="center"> Ensure "Assign licenses" and "Microsoft 365 Business Standard" is selected. If need be select the "Apps" dropdown arrow and check or uncheck the apps you wish for the selected user(s) to be allowed access to based on roles and privileges of your org.</div>
+
+<div align="center"> Select "Next" and "Add users".</div>
 
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/bcaa11ec0a5ff22ad9b971fa576138fb06ef097c/MS%20365%20Bulk%20User%20creation%204.png" alt="Sample Image"/>
