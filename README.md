@@ -23,7 +23,10 @@ Next, select the "Active users" sub-category.</div>
 
 <div align="center">(1) Within "Basics", correctly fill in the user's "First Name", "Last name", "Display name", and "Username" & select "Next".</div>
 <div align="center">(2) Within "Product licenses", ensure "Assign user a product license" and the appropriate license is selected and select "Next".</div>
-<div align="center">(3) Within "Optional settings", ensure "Assign user a product license" and the appropriate license is selected and select "Next".</div>
+<div align="center">(3) Within "Optional settings", ensure "User (no admin center access)" is selected and select "Next".</div>
+<div align="center">(4) Within "Add a user", ensure everything is correct and select "Finish adding".</div>
+
+
 
 
 
