@@ -58,7 +58,7 @@ Next, select the "Active users" sub-category.</div>
 
 
 
-<div align="center"> Ensure "Assign licenses" and "Microsoft 365 Business Standard" is selected. If need be select the "Apps" dropdown arrow and check or uncheck the apps you wish for the selected user(s) to be allowed access to based on roles and privileges of your org.</div>
+<div align="center"> Ensure "Assign licenses" and "Microsoft 365 Business Standard" is selected. If need be, select the "Apps" dropdown arrow and check or uncheck the apps you wish for the selected user(s) to be allowed access to based on roles and privileges of your org.</div>
 
 <div align="center"> Select "Next" and "Add users".</div>
 
