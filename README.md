@@ -30,6 +30,11 @@ Next, select the "Active users" sub-category.</div>
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/6d92fc531baf46fbf44497adbcea819391de3eeb/MS%20365%20Single%20User%20creation%203.png" alt="Sample Image"/>
   </p>
 
+<p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/e4eeebe69c0639af09392436eb996af852fc1d43/1%20user%20added.png" alt="Sample Image"/>
+  </p>
+
+
 <h2> Creating bulk users using a .csv template </h3>
 
 
