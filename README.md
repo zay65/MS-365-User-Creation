@@ -36,21 +36,26 @@ Next, select the "Active users" sub-category.</div>
   </p>
 
 
-<div align="center"> Check "I'd like to upload a CSV with user information", select "Browse" and input a .csv template.</div>
+<div align="center"> Check "I'd like to upload a CSV with user information", select "Browse", input a .csv template, and select "Next"</div>
 
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/cc2f383e18d2cc74d24aa1e0bb6e9904ec72a6f4/MS%20365%20Bulk%20User%20creation%202.png" alt="Sample Image"/>
   </p>
 
 
+ <div align="center"> (My sample .csv file)</div>
+
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/cc2f383e18d2cc74d24aa1e0bb6e9904ec72a6f4/MS%20365%20Bulk%20User%20creation%203.png" alt="Sample Image"/>
   </p>
 
 
- <div align="center"> Select "Next".</div>
-
-<p align="center"> 
 
 
 
+
+<div align="center"> Check "I'd like to upload a CSV with user information", select "Browse" and input a .csv template.</div>
+
+<p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/bcaa11ec0a5ff22ad9b971fa576138fb06ef097c/MS%20365%20Bulk%20User%20creation%204.png" alt="Sample Image"/>
+  </p>
