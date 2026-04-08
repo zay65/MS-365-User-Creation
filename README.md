@@ -1,5 +1,5 @@
 # MS-365-User-Creation
-Repo highlighting my knowledge of creating single users and bulk users (manually/.csv template) 
+Repo highlighting my knowledge of creating single users (manually) and using a .csv template to create users in bulk
 
 <h2> Creating a single user </h3>
 
