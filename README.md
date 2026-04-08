@@ -26,12 +26,21 @@ Next, select the "Active users" sub-category.</div>
 <div align="center">(3) Within "Optional settings", ensure "User (no admin center access)" is selected and select "Next".</div>
 <div align="center">(4) Within "Add a user", ensure everything is correct and select "Finish adding".</div>
 
+<h2> Creating bulk users using a .csv template </h3>
+
+
+<div align="center"> Under "Active users", select "Add multiple users"</div>
+
+<p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/795fdca241de20d77bf0990c21cb27438e07cd09/MS%20365%20Bulk%20User%20creation%201.png" alt="Sample Image"/>
+  </p>
+
 
 
 
 
 
 <p align="center">
-    <img src="https://github.com/zay65/MS-365-User-Creation/blob/e9141c4ca6ba5e0ba56848bd999ffb718f59b8f0/MS%20365%20Single%20User%20creation%203.png" alt="Sample Image"/>
+    <img src="" alt="Sample Image"/>
   </p>
 
