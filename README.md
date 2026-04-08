@@ -58,9 +58,12 @@ Next, select the "Active users" sub-category.</div>
 
 
 
-<div align="center"> Ensure "Assign licenses" and "Microsoft 365 Business Standard" is selected. If need be, select the "Apps" dropdown arrow and check or uncheck the apps you wish for the selected user(s) to be allowed access to based on roles and privileges of your org.</div>
+<div align="center"> Ensure "Assign licenses" and "Microsoft 365 Business Standard" is selected. If need be, select the "Apps" dropdown arrow and check or uncheck the apps you wish for the selected user(s) to be allowed access to based on roles and privileges of your org. Select "Next", "Add users", and "Download user details" to store in case of future account access issues/config.
+</div>
 
-<div align="center"> Select "Next" and "Add users".</div>
+
+
+
 
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/bcaa11ec0a5ff22ad9b971fa576138fb06ef097c/MS%20365%20Bulk%20User%20creation%204.png" alt="Sample Image"/>
