@@ -26,9 +26,14 @@ Next, select the "Active users" sub-category.</div>
 <div align="center">(3) Within "Optional settings", ensure "User (no admin center access)" is selected and select "Next".</div>
 <div align="center">(4) Within "Add a user", ensure everything is correct and select "Finish adding".</div>
 
+
+
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/6d92fc531baf46fbf44497adbcea819391de3eeb/MS%20365%20Single%20User%20creation%203.png" alt="Sample Image"/>
   </p>
+
+
+<div align="center"> User has been added.</div>
 
 <p align="center">
     <img src="https://github.com/zay65/MS-365-User-Creation/blob/e4eeebe69c0639af09392436eb996af852fc1d43/1%20user%20added.png" alt="Sample Image"/>
