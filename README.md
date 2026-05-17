@@ -1,6 +1,5 @@
 # MS-365-User-Creation
-Repo highlighting my knowledge of creating single users (manually) and using a .csv template to create users in bulk
-
+Enterprise-style user administration demonstrating account provisioning, bulk user creation through CSV automation, and efficient identity management workflows.
 <h2> Creating a single user </h3>
 
 <div align="center"> Within "Microsoft 365 admin center", select the drop down arrow of the "Users" category.
